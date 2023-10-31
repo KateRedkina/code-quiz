@@ -10,7 +10,7 @@ Project is created using:
 * JavaScript
 
 ## Mockup
-![code-quiz](./Assets/images/code-quiz.png)
+![code-quiz](./assets/images/code-quiz.png)
 
 ## Installation
 To install the project on your local machine:
